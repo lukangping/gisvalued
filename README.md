@@ -23,3 +23,6 @@ POI（兴趣点）数据
 举例：百度地图只要靠购买供应商的地图数据，高德地图主要靠自己采集生产为主，（拥有自己的地图采集生成园区，员工数量达到1500人）。
 
 http://kc.njnu.edu.cn/dlxx/ceteach.htm
+
+http://wenku.baidu.com/view/fb90669671fe910ef02df808.html?pn=50
+
