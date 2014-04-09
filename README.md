@@ -26,3 +26,9 @@ http://kc.njnu.edu.cn/dlxx/ceteach.htm
 
 http://wenku.baidu.com/view/fb90669671fe910ef02df808.html?pn=50
 
+==========
+ArcGIS
+
+http://www.esrichina.com.cn/downloadcenter/
+http://www.esrichina.com.cn/market/2011eds/zlxz.php
+
