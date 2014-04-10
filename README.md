@@ -33,5 +33,5 @@ http://www.esrichina.com.cn/downloadcenter/
 
 http://www.esrichina.com.cn/market/2011eds/zlxz.php
 
-https://github.com/lukangping/gisvalued
+http://download.esrichina.com.cn/2013ucppt/
 
