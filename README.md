@@ -35,3 +35,8 @@ http://www.esrichina.com.cn/market/2011eds/zlxz.php
 
 http://download.esrichina.com.cn/2013ucppt/
 
+============
+Presentation
+
+http://download.esrichina.com.cn/events/2012ic/zhongsb.pdf
+
