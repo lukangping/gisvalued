@@ -40,3 +40,5 @@ Presentation
 
 http://download.esrichina.com.cn/events/2012ic/zhongsb.pdf
 
+http://download.esrichina.com.cn/jishugkk/%E8%AE%A9%E5%A4%A7%E6%95%B0%E6%8D%AE%E9%87%8F%E5%BA%94%E7%94%A8%E4%B8%8D%E5%86%8D%E5%8F%AF%E6%80%95.zip
+
